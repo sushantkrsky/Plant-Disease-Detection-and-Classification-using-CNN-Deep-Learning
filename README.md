@@ -2,7 +2,9 @@
 This is an implementation of a Convolutional Neural Network (CNN) based deep learning model designed for the detection and classification of plant diseases from images. The model helps in identifying whether a plant is diseased or healthy, and if diseased, classifies the specific type of disease affecting the plant.The project is created using Streamlit App and deployed using Docker.
 ## Getting Started
 Kaggle DataSet Link : https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+
 Trained Model Link : https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8zWcARnrj/view?usp=sharing](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
+
 ### Download and Copy the Code inside a new Folder and open VS Code
 Open Google Collab : https://colab.research.google.com/
 
@@ -39,7 +41,5 @@ Go to Localhost and Docker container will be successfully deployed
 ## Screenshots of the WebApp
 ![Screenshot](s3.png)
 ![Screenshot](ss3.png)
-### Contributors
-- [Sushant Kumar](https://github.com/sushantkrsky)
 
 
